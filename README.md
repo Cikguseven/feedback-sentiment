@@ -1,4 +1,6 @@
-# iFeel
+![iFeel](https://github.com/jefflcy/feedback-sentiment/assets/40373653/fd84250e-bf0c-48b0-beee-d5a46016f39a)
+
+# iFeel 
 
 iFeel is a web-based platform built to capture feedback on change management initiatives and use AI-powered sentiment analysis to understand the sentiment behind the feedback. It's built with Flask and SQLite for the backend, and HTML and CSS for the frontend.
 
